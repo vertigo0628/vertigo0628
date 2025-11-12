@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm LEWIS GITAU 
+       .
 
 <!--
 **vertigo0628/vertigo0628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
