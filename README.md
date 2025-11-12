@@ -2,7 +2,7 @@
 ### // Mobile. Software. CyberSec //
 ## _SYSTEM STATUS: ONLINE_
 
-{```json
+```json
 {
   "status": "Active Developer & Security Enthusiast",
   "focus": [
@@ -12,7 +12,7 @@
   ],
   "current_mission": "Innovating & Securing the Digital Frontier"
 }
----
+```
 ### 💻 Tech Stack & Expertise
 
 | Category | Tools & Technologies |
