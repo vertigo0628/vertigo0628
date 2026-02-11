@@ -4,10 +4,11 @@
 
 ```json
 {
+"Identity -Lewis Gitau-"
   "status": "Active Developer & Security Enthusiast",
   "focus": [
-    "Next-Gen Mobile Apps (Flutter, React Native)",
-    "Robust Backend Systems (Python, Node.js)",
+    "Next-Gen Mobile Apps (Kotlin,Java,EthicalReact Native)",
+    "Robust Backend system (Kotlin,Python, Node.js)",
     "Digital Fortification (Ethical Hacking, Pentesting)"
   ],
   "current_mission": "Innovating & Securing the Digital Frontier"
