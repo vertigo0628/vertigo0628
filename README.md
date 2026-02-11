@@ -7,7 +7,7 @@
 "Identity -Lewis Gitau-"
   "status": "Active Developer & Security Enthusiast",
   "focus": [
-    "Next-Gen Mobile Apps (Kotlin,Java,EthicalReact Native)",
+    "Next-Gen Mobile Apps (Kotlin,Java,React Native)",
     "Robust Backend system (Kotlin,Python, Node.js)",
     "Digital Fortification (Ethical Hacking, Pentesting)"
   ],
