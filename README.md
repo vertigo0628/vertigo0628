@@ -13,18 +13,6 @@
   "current_mission": "Innovating & Securing the Digital Frontier"
 }
 ```
-### 💻 Tech Stack & Expertise
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| *Mobile Development* | 📱 Flutter, React Native, Swift (iOS), Kotlin/Java (Android) |
-| *Backend & Software* | Python (Django/Flask), Node.js (Express), C#, Go |
-| *Security & Auditing* | 🔒 OWASP, Burp Suite, Nmap, Kali Linux, Threat Modeling |
-| *Databases* | PostgreSQL, MongoDB, MySQL, Firebase |
-| *DevOps & Cloud* | Git, Docker, AWS/Azure Basics, CI/CD Pipelines |
-=====================================================================================
-<div align="center">
-
 ### 💙 Mobile Development
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
