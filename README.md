@@ -1,4 +1,31 @@
-# Databases
+# README.md
 
+## Mobile Development
+- React Native
+- Flutter
+- Swift
+- Kotlin
+
+## Tools & IDEs
+- Visual Studio Code
+- Android Studio
+- Xcode
+- Postman
+
+## Programming Languages
+- JavaScript
+- Python
+- Java
+- C#
+
+## Databases
 - Firebase
-- [![Supabase](https://img.shields.io/badge/powered_by-supabase-3e8c37.svg)](https://supabase.io)
+- Supabase
+- PostgreSQL
+- MongoDB
+
+## Cloud Platforms
+- AWS
+- Azure
+- Google Cloud
+- Heroku
