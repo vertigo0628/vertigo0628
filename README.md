@@ -2,7 +2,7 @@
 
 # ⚡<b>VertiGO</b>⚡
 ### // Mobile. Software. CyberSec //
-## _SYSTEM STATUS: ONLINE_
+## _SYSTEM STATUS: ONLINE_.
 
 ```json
 {
