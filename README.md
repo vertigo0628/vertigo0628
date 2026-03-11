@@ -247,10 +247,26 @@
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>  
 </div>  
 
+---
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://portfolio-v-0628.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-00B8FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:vertigopoiuyg@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vertigo0628">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 
-
-</div>
 
 ---
 
