@@ -1,7 +1,15 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002B00,100:39FF14&height=200&section=header&text=V-0628&fontSize=40&fontColor=ffffff&width=2000"/>
+</p>
 
-
-# <b>>>VertiGO>>>>>>>>>></b>
+ 
+## <b>>>VertiGO>>>>>>>>>></b>
 ### // Mobile. Software. CyberSec //
+<h1 align="center">
+<h1 align="center">
+  <b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=700&color=00B8FF&center=true&vCenter=true&width=700&lines=Hello+World%21;Introducing;Wait+for+it...;<<<VertiGO>>>;Mobile/Web+Developer;Tool+Builder;Open+Source+Enthusiast;That+been+said+and+done,;Get+your+coffee+ready"/></b>
+</h1>
+</h1>
 ## _SYSTEM STATUS: ONLINE_.
 
 ```json
@@ -266,9 +274,13 @@
 
 </p>
 
-
-
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002B00,100:39FF14&height=200&width=2000&text=VertiGO&fontSize=70&fontColor=ffffff&textBg=false" alt="VertiGO Neon Green Header" />
+</p>
+<p align="center">
+## Built and maintained by <b>vertiGO-0628</b>
+</p>
 
 
 
